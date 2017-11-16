@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "qutabot",
+    "bn": "qutabot",
+    "staging": "qutabot"
+  }
+}
