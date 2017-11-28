@@ -17,9 +17,9 @@ git clone https://github.com/abdotaouala/qutaBot.git
 
 ### Running the tests
 Facebook Link : https://www.facebook.com/QutaBot/          
-Demo Youtube Link : https://youtu.be/N46L3B07ZO8    
+Demo Youtube Link : https://youtu.be/N46L3B07ZO8       
 ## Version
-QutaBot version : 1.0.1
-## Authors       
-[Abdelfatah TAOUALA](https://www.linkedin.com/in/abdotaouala/)        
-[Mounir AABADA](https://github.com/mounirABD/)
+QutaBot version : 1.0.1  
+## Authors        
+[Abdelfatah TAOUALA](https://www.linkedin.com/in/abdotaouala/)         
+[Mounir AABADA](https://github.com/mounirABD/)  
