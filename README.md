@@ -24,4 +24,7 @@ QutaBot version : 1.0.1
 [Mounir AABADA](https://github.com/mounirABD/)  
 
 ## License  
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/abdotaouala/qutaBot/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/abdotaouala/qutaBot/blob/master/LICENSE.md) file for details 
+
+## Acknowledgments  
+<li>Hat tip to anyone who's code was used</li>
