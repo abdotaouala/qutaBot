@@ -9,5 +9,5 @@ Facebook Link : https://www.facebook.com/QutaBot/
 
 Demo Youtube Link : https://youtu.be/N46L3B07ZO8    
 
-
+<img src="https://github.com/favicon.ico" width="48">
 by Abdelfatah TAOUALA & Mounir AABADA.       
