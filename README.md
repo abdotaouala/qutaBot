@@ -17,7 +17,7 @@ It's a smart Quta bot that answers developers' questions and helps them to find 
 <li>Node.js Express Framework </li>   
 <li>messenger platform</li>  
 <li>Natural Language (wit.ai)</li>  
-<li>APIs : wikipadia, github, github, google search </li>    
+<li>APIs : wikipadia, github, google search, stackoverflow </li>    
 
 ## Authors        
 [Abdelfatah TAOUALA](https://github.com/abdotaouala/)         
