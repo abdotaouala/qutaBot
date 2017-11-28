@@ -7,14 +7,10 @@ It's a smart Quta bot that answers developers' questions and helps them to find 
 <center>
 <img src="https://lh5.googleusercontent.com/JA-e8LQeHLLSqeB-1Q1horlYl42p_k3TL5K7sNVKSjrAdcpnnOXdqVTo9PRcXVhwsxofu8ww6raX99q06M62=w1600-h745-rw" width="500" >
 </center>  
+[Qutabot Link](https://www.facebook.com/QutaBot/)
+[Demo Youtube Link](https://youtu.be/N46L3B07ZO8)
 
-Qutabot Link : https://www.facebook.com/QutaBot/          
-Demo Youtube Link : https://youtu.be/N46L3B07ZO8  
-<video width="400" controls>
-  <source src="https://youtu.be/N46L3B07ZO8" type="video/mp4">
-  <source src="https://youtu.be/N46L3B07ZO8" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video>
+      
 ## Built With
 <li>Node.js Express Framework </li>  
 
