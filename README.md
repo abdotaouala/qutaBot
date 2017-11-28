@@ -17,7 +17,7 @@ It's a smart Quta bot that answers developers' questions and helps them to find 
 <li>Node.js Express Framework </li>  
 
 ## Authors        
-[Abdelfatah TAOUALA](https://www.linkedin.com/in/abdotaouala/)         
+[Abdelfatah TAOUALA](https://github.com/abdotaouala/)         
 [Mounir AABADA](https://github.com/mounirABD/)  
 
 ## License  
