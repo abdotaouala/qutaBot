@@ -6,7 +6,7 @@ const request = require('request')
 // google search
 var google = require('googleapis')
 var customsearch = google.customsearch('v1')
-const CX = '***************:jn11494mk90'
+const CX = '***************:****'
 const CXSO = '****************:-a-blhreslu'
 const API_KEY = '*********************'
 
