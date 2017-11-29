@@ -6,12 +6,12 @@ const request = require('request')
 // google search
 var google = require('googleapis')
 var customsearch = google.customsearch('v1')
-const CX = '002528928840247269812:jn11494mk90'
-const CXSO = '002528928840247269812:-a-blhreslu'
-const API_KEY = 'AIzaSyCYZXiSOBwJxjFBCyLGavuFD1hCHAL3mIM'
+const CX = '***************:jn11494mk90'
+const CXSO = '****************:-a-blhreslu'
+const API_KEY = '*********************'
 
 // wit.ai access token
-const wit_token = "Bearer K4WZE4XTDBKBDOCNHQAFD7HKVZWB4SIC"
+const wit_token = "Bearer ************"
 
 let PAY_LOAD = ""
 
@@ -35,7 +35,7 @@ app.get('/', function(req, res){
 
 // facebook
 
-let token = "EAAcTJWkRoR8BAHVbnbO5XafM7ZB7LO0lXXG3YOOKtNaMzZAEISZCLr6Wm3grDoGZB7843Gg0XpwcEQuyXCcIZB6kXvr8sKvIpUlKZCQDZAZASIhyLZC2ZCQDHnnqzb8mUHJBlZCpFxoCKnNmLq40naY82pxi8fqz27gC5oQ7yy5n30VksdI2oFMyitc"
+let token = "TOKEN"
 
 app.get('/webhook/', function(req, res){
 	if (req.query['hub.verify_token'] === "QutaBotABDMNR"){
